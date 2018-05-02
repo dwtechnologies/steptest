@@ -1,0 +1,15 @@
+Add test for
+
+
+finished files
+	add_options.go
+	check_conditions.go
+	jobs_add.go
+	jobs_add_test.go
+	jobs_parse.go
+	jobs_run.go
+	replace_from_vars.go
+	results.go
+	----
+	set_var_from.go
+	structs.go
